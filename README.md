@@ -32,7 +32,7 @@ For faster performance in Colab, enable GPU: **Runtime â†’ Change runtime type â
   </table>
 </p>
 
-All the tutorials are implemented using [JAX](https://github.com/jax-ml/jax) and [lqrax](https://pypi.org/project/lqrax/).
+All the tutorials are implemented using [JAX](https://github.com/jax-ml/jax) and [LQRax](https://github.com/MaxMSun/lqrax).
 
 ## Copyright and License
 
