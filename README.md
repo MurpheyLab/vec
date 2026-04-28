@@ -6,7 +6,8 @@ Please visit the [**project website**](https://murpheylab.github.io/vec/) for mo
 
 ## Tutorials
 
-The `tutorials/` directory contains self-contained Jupyter notebooks with guided examples:
+The `tutorials/` directory contains self-contained Jupyter notebooks with guided examples.
+For faster performance in Colab, enable GPU: **Runtime → Change runtime type → T4 GPU**.
 
 - [[Notebook](tutorials/erasing_mpc_samples.ipynb) | [Google Colab](https://colab.research.google.com/github/MurpheyLab/vec/blob/main/tutorials/erasing_mpc_samples.ipynb)] Erasing task with double-integrator dynamics, where the target is a point-cloud distribution and the volumetric state is a 2-D tool controlled from a pivot point.
 - [[Notebook](tutorials/erasing_mpc_gaussian.ipynb) | [Google Colab](https://colab.research.google.com/github/MurpheyLab/vec/blob/main/tutorials/erasing_mpc_gaussian.ipynb)] Erasing task with double-integrator dynamics, where the target is a Gaussian mixture distribution and the volumetric state is a 2-D tool controlled from a pivot point.
